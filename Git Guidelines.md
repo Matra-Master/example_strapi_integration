@@ -55,9 +55,6 @@ Un branch de descarte **no es para ser pusheado a remoto**, sino para probar cos
 En los entornos de Github o Gitlab de proyectos grandes es bastante común que los testeos automatizados de pull requests o merge request los haga un bot sobre un branch de descarte.
 
 
----
-# References
-
 [git-rebase]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History "Git tools - Rewriting history"
 [git-merge]: https://git-scm.com/docs/git-merge "Git merges Documentation"
 [git-cherry-pick]: https://git-scm.com/docs/git-cherry-pick "Git Cherry-pick Documentation"

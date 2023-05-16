@@ -58,8 +58,8 @@ En los entornos de Github o Gitlab de proyectos grandes es bastante común que l
 ---
 # References
 
-[git-rebase]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History Git tools - Rewriting history
-[git-merge]: https://git-scm.com/docs/git-merge Git merges Documentation
-[git-cherry-pick]: https://git-scm.com/docs/git-cherry-pick Git Cherry-pick Documentation
- https://git-scm.com/about/staging-area
- https://git-scm.com/docs/gitworkflows
+[git-rebase]: https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History "Git tools - Rewriting history"
+[git-merge]: https://git-scm.com/docs/git-merge "Git merges Documentation"
+[git-cherry-pick]: https://git-scm.com/docs/git-cherry-pick "Git Cherry-pick Documentation"
+[staging-area]: https://git-scm.com/about/staging-area "Git about staing area"
+[workflows]: https://git-scm.com/docs/gitworkflows "Git workflows"

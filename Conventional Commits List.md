@@ -46,7 +46,7 @@ Date:   Fri Jul 14 16:10:28 2023 -0300
 
 ---
 
-![[Pasted image 20230714170656.png]]
+![Commit Example](commit-example.png)
 
 ---
 
